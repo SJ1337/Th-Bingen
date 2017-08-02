@@ -13,8 +13,8 @@ Describing the Project :
 - In version 4.0 the simulation gets extended by adding more traffic participants
 
 -Used Languages :
--- Code will be in english
--- Comments will be in english
--- Conversation will be in english
+- Code will be in english
+- Comments will be in english
+- Conversation will be in english
  
 -Code of conduct deposited
