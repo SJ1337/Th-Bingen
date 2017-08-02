@@ -17,4 +17,9 @@ Describing the Project :
 - Comments will be in english
 - Conversation will be in english
  
--Code of conduct deposited
+Code of conduct :
+[read Coc here!](Th-Bingen/CODE_OF_CONDUCT.md)
+
+License :
+[read license here!](Th-Bingen/LICENSE)
+
