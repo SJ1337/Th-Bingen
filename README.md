@@ -17,11 +17,9 @@ Used Languages :
 - Comments will be in english
 - Conversation will be in english
 
-Code of conduct 
-  - Th-Bingen Projekt 
-      Dont merch without asking your group members, and wait until you get a thumbs up
-      Wherever possible use pull requests
-      Write everything in english
+
+Code of conduct deposited
+
  
  
  
