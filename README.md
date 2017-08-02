@@ -18,8 +18,8 @@ Describing the Project :
 - Conversation will be in english
  
 Code of conduct :
-[read Coc here!](Th-Bingen/CODE_OF_CONDUCT.md)
+[read Coc here!](https://github.com/SJ1337/Th-Bingen/blob/master/CODE_OF_CONDUCT.md)
 
 License :
-[read license here!](Th-Bingen/LICENSE)
+[read license here!](https://github.com/SJ1337/Th-Bingen/blob/master/LICENSE)
 
