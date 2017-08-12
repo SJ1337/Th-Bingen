@@ -9,9 +9,9 @@ import com.univocity.parsers.csv.CsvWriterSettings
 /* the scenario function creates a dozen cars, puts them into a road network,
  * simulates the traffic and prints the jammed / non-jammed for every car.
  */
-fun scenario(Cars: MutableList<Car>) {
+fun scenario(cars: MutableList<Car>) {
 
-	val rn = RoadNetwork(7, Cars)
+	val rn = RoadNetwork(7, cars)
 	rn.simulationStep()
 
 }
