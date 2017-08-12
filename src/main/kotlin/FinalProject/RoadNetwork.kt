@@ -37,9 +37,4 @@ class RoadNetwork (cap: Int, cars: List<Car>) {
 		}
 	}
 	
-	fun printCarsJammed() {
-		for (car in Cars) {
-			println(car.getJammed())
-		}
-	}
 }
