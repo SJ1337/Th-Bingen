@@ -5,7 +5,7 @@ package FinalProject
 class Car(d: Boolean) {
 	/* variables
 	 */
-	private val drive = d
+	private var drive = d
 	private var jammed: Boolean = false
 	
 	
@@ -14,6 +14,9 @@ class Car(d: Boolean) {
 	public fun getDrive(): Boolean {
 		return drive
 	}
+	public fun setDrive(): Boolean {
+		drive = d
+	}	
 	
 	public fun getJammed(): Boolean {
 		return jammed
