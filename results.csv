@@ -1,13 +1,13 @@
-I want to drive,In a traffic jam
-true,true
-false,true
-true,true
-true,true
-false,true
-true,true
-true,true
-false,true
-true,true
-true,true
-false,true
-true,true
+I want to drive,In a traffic jam,Delayed
+true,true,false
+false,true,false
+true,true,false
+true,true,false
+false,true,false
+true,true,false
+true,true,false
+false,true,false
+true,true,false
+true,true,false
+false,true,false
+true,true,false
