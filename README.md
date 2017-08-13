@@ -25,8 +25,10 @@ IT-So17
 
 ## Launching the application
 After downloading the repository, open Windows Powershell and execute the following command after switching
-in the correct folder.
+in the correct folder 
+(With the command cd "path" , you can switch forward to the correct folder. With cd .. you go back a folder)
 
-**java -jar target/Th-Bingen-1.0-SNAPSHOT-jar-with-dependencies.jar**
-
+```
+java -jar target/Th-Bingen-2.0-SNAPSHOT-jar-with-dependencies.jar
+```
 
